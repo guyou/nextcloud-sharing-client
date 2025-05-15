@@ -1,0 +1,6 @@
+github.com/nextcloud/client-sdks v0.0.0-20240807154148-02bc7281ee36 h1:FpU82+iJALXs3TB2kk762Y4j9w4m0Is69+xR1tSN8lY=
+github.com/nextcloud/client-sdks v0.0.0-20240807154148-02bc7281ee36/go.mod h1:o3ymIw4qNcmg0hEAaJsPdWB7c+yLUzPEA+KBxJIrNoo=
+github.com/nextcloud/client-sdks/go v0.0.0-20240807154148-02bc7281ee36 h1:wJ7OMXg2JcXLkopphUhMmPZKtGFTFirBSr4wOvBbP4g=
+github.com/nextcloud/client-sdks/go v0.0.0-20240807154148-02bc7281ee36/go.mod h1:NQs1cd2PE3sRTUMW6LiefwJ7Tr1qwj54aNfp5XsKVkc=
+github.com/studio-b12/gowebdav v0.10.0 h1:Yewz8FFiadcGEu4hxS/AAJQlHelndqln1bns3hcJIYc=
+github.com/studio-b12/gowebdav v0.10.0/go.mod h1:bHA7t77X/QFExdeAnDzK6vKM34kEZAcE1OX4MfiwjkE=
